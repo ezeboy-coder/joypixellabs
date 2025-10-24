@@ -68,8 +68,8 @@ const Contact: React.FC = () => {
                   <div className="method-icon">📍</div>
                   <div className="method-info">
                     <h3>Visit Us</h3>
-                    <p>123 Digital Street</p>
-                    <p>Tech City, TC 12345</p>
+                    <p>2847 Innovation Drive</p>
+                    <p>Austin, TX 78701</p>
                   </div>
                 </div>
               </div>

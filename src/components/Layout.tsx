@@ -122,7 +122,7 @@ const Layout: React.FC<LayoutProps> = ({ children }) => {
             <h4>Contact Info</h4>
             <p>Email: hello@joypixellabs.com</p>
             <p>Phone: +1 (555) 123-4567</p>
-            <p>Address: 123 Digital Street, Tech City, TC 12345</p>
+            <p>Address: 2847 Innovation Drive, Austin, TX 78701</p>
           </div>
         </div>
         <div className="footer-bottom">
